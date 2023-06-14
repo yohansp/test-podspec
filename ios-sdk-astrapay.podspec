@@ -20,7 +20,7 @@ A short description of iOS-sdk.
 
 
   spec.author       = { "Astrapay" => "devops@astrapay.com" }
-  spec.source       = { :git => "https://github.com/yohansp/test-podspec.git", :tag => '1.0.0'}
+  spec.source       = { :git => "https://github.com/yohansp/test-podspec.git"}
   spec.dependency 'IQKeyboardManagerSwift', '6.3.0'
   spec.dependency 'MaterialComponents/Snackbar'
   spec.dependency 'lottie-ios', '3.2.2'
