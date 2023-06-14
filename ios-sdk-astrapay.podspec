@@ -9,7 +9,7 @@ A short description of iOS-sdk.
 A short description of iOS-sdk.
                    DESC
 
-  spec.homepage			= "https://github.com/astrapay/ios-sdk-framework-astrapay"
+  spec.homepage			= "https://github.com/yohansp/test-podspec"
   spec.license      		= { :type => 'MIT', :file => 'LICENSE' }
   spec.pod_target_xcconfig 	= {
       'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'
@@ -20,7 +20,7 @@ A short description of iOS-sdk.
 
 
   spec.author       = { "Astrapay" => "devops@astrapay.com" }
-  spec.source       = { :git => "https://github.com/astrapay/ios-sdk-framework-astrapay.git", :tag => '1.0.0'}
+  spec.source       = { :git => "https://github.com/yohansp/test-podspec.git", :tag => '1.0.0'}
   spec.dependency 'IQKeyboardManagerSwift', '6.3.0'
   spec.dependency 'MaterialComponents/Snackbar'
   spec.dependency 'lottie-ios', '3.2.2'
